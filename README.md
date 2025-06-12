@@ -1,5 +1,5 @@
-# -
-Fama-French三因子模型验证——基于S&amp;P500
+# Fama-French三因子模型验证——基于S&amp;P500
+
 本项目基于S&P500股票数据数据，对Fama-French三因子模型进行实证分析，并进一步分行业回归。
 股票数据来自雅虎财经，使用Python的yfinance库可直接调用。
 三因子数据来自于Ken French官方数据库。
